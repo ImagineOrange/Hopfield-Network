@@ -54,3 +54,24 @@ def setup(image,tweak):
         a_final = a_binary.reshape(4096,1)
         print(a_final.shape)
         return a_final
+
+#draw the network as a graph using networkx
+import networkx as nx
+plt.figure(figsize=(13,8))
+plt.title("Hopfield Network, scaled : √size",fontsize=15)
+G = nx.complete_graph(784)
+color_map = []
+for neuron in H_Net.state.flatten():
+     if neuron == 1: 
+          color_map.append('cyan')
+     else:
+         color_map.append('blue')
+
+ nx.draw(G,pos=nx.circular_layout(G),
+           node_size=500, 
+           node_color=color_map, 
+           edge_color='r',
+           width=.3,alpha=.9)
+           plt.show()  
+
+plt.show()
