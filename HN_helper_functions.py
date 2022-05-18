@@ -1,7 +1,7 @@
+#randomly distort a numpy array
 import numpy as np
 import matplotlib.pyplot as plt
 
-#randomly distort a numpy array
 def random_distort(self,knob,picture):
         import random
         frame = self.memory[picture]
