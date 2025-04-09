@@ -9,4 +9,10 @@ The helper_functions.py file contains some helper functions, such as an image pr
 a random distortion function, and another useful function.
 
 This repo is helper code for the medium article located at https://medium.com/towards-data-science/hopfield-networks-neural-memory-machines-4c94be821073
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/06dc56d7-5b81-4152-9be7-8b8c4910953b)
