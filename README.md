@@ -11,4 +11,5 @@ a random distortion function, and another useful function.
 This repo is helper code for the medium article located at https://medium.com/towards-data-science/hopfield-networks-neural-memory-machines-4c94be821073
 
 
-![image](https://github.com/user-attachments/assets/93a68ddd-8882-45f7-941b-a7efe93dafe0)
+![image](https://github.com/user-attachments/assets/54e09822-9c10-4a11-9bda-efc671624115)
+
