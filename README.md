@@ -10,8 +10,7 @@ a random distortion function, and another useful function.
 
 This repo is helper code for the medium article located at https://medium.com/towards-data-science/hopfield-networks-neural-memory-machines-4c94be821073
 
-
-(https://github.com/user-attachments/files/20022228/Untitled-1.pdf)
+![Untitled-1](https://github.com/user-attachments/assets/1ef001b8-d9fb-439d-877c-09e8f316b565)
 
 ^examples of the weights matrices of three different learned hopfield networks
 
